@@ -12,4 +12,8 @@ public class SomeClass {
     public int divide (int number) {
         return num / number;
     }
+
+    public void goodbye() {
+        System.out.println("sayonara");
+    }
 }
