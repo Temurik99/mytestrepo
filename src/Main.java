@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("L assignment");
+        System.out.println("okay anyway..");
         System.out.println(Math.sin(Math.PI * 4));
         System.out.println("whats up? Man");
 
