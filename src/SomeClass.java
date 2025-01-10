@@ -8,4 +8,8 @@ public class SomeClass {
     public void hello() {
         System.out.println("Hello, whats up?");
     }
+
+    public int divide (int number) {
+        return num / number;
+    }
 }
