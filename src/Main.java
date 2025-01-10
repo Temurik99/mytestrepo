@@ -3,5 +3,9 @@ public class Main {
         System.out.println("our first shared repo");
         System.out.println(Math.sin(Math.PI * 4));
         System.out.println("whats up?");
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println((int) (Math.random() * 10));
+        }
     }
 }
